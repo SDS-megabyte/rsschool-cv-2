@@ -1,2 +1,2 @@
 
-https://SDS-megabyte.github.io/rsschool-cv-2/cv/
+https://SDS-megabyte.github.io/rsschool-cv-2/
